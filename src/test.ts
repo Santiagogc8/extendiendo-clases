@@ -1,5 +1,5 @@
 import test from "ava";
-import { ListaDeProductos } from "./index";
+import { ListaDeProductos, Product } from "./index";
 import products from "./products.json";
 import { orderBy } from "lodash";
 
